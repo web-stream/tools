@@ -57,3 +57,11 @@ w przyszlosci narzedzie w VPN
 jitsi
 cloud
 ...
+
+
+---
++ [edit](https://github.com/web-stream/tools/edit/main/README.md)
+
+```
+https://github.com/web-stream/tools.git
+```
