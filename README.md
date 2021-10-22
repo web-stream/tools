@@ -1,5 +1,4 @@
-# tools
-tools.webstream.dev
+# tools.webstream.dev
 
 
 Tools we are using daily on work with project
@@ -9,8 +8,13 @@ Tools we are using daily on work with project
 
 ### Chat
 
-+ discord
-+ slack
+#### discord
+
++ download
++ group
+
+
+#### slack
 
 Adres Url kanału
 
