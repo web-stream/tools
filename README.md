@@ -4,6 +4,27 @@
 Tools we are using daily on work with project
 
 
+
+### contact
+
++ discord dla **webstream**
+  + narzędzie do tworzenia społeczności
+  + tworzenie kanałów:
+    + support
+    + developerski
++ slack
++ github
++ email
++ linkedin
+
+
+### Tools
++ Visual Studio
++ WebStorm
++ ...
+
+
+
 ## komunikacja
 
 ### Chat
