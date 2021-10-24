@@ -1,4 +1,4 @@
-# [docs.webstream.dev](https://tools.webstream.dev/#/)
+# [tools.webstream.dev](https://tools.webstream.dev/#/)
 
 tools.webstream.dev
 
