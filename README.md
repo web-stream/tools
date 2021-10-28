@@ -5,9 +5,14 @@ tools.webstream.dev
 
 Tools we are using daily on work with project
 
+## Session
++ screen share, plugin do share-owania IDE,
++ discord/slack integration, dla omawiania kodu w IDE, podczas pisania
++ screen shot and chatting, jak jabber...
 
 
-### contact
+
+## contact
 
 + discord dla **webstream**
   + narzędzie do tworzenia społeczności
@@ -20,24 +25,22 @@ Tools we are using daily on work with project
 + linkedin
 
 
-### Tools
+## IDE Tools
 + Visual Studio
 + WebStorm
 + ...
 
 
 
-## komunikacja
+## Chat
 
-### Chat
-
-#### discord
+### discord
 
 + download
 + group
 
 
-#### slack
+### slack
 
 Adres Url kanału
 
