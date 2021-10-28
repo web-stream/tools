@@ -1,7 +1,5 @@
 # [tools.webstream.dev](https://tools.webstream.dev/#/)
 
-tools.webstream.dev
-
 
 Tools we are using daily on work with project
 
