@@ -1,10 +1,9 @@
 # [tools.webstream.dev](https://tools.webstream.dev/#/)
 
-
----
 We use the better tools to stay in touch and do the best.
 We are working asynchronous: [Remote Work Should Be (Mostly) Asynchronous](https://hbr.org/2021/12/remote-work-should-be-mostly-asynchronous)
 We support [right to disconnect](https://www.steveglaveski.com/blog/why-the-right-to-disconnect-is-a-bad-idea) — a proposed human right with respect to disconnecting from work-related electronic communication during non-work hours, something that France introduced [in 2016](https://blogs.loc.gov/law/2020/08/telework-and-the-french-right-to-disconnect/#:~:text=In%202016%2C%20the%20French%20government,lives%20with%20calls%20and%20emails.).
+
 ---
 
 ## Tools we are using daily on work with project
